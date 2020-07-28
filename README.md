@@ -56,7 +56,7 @@ badge" to this `README.md` file.  Commit and push the modified
 `README.md` and verify you can see the Travis badge render correctly on
 the front page of your repo.
 
-https://travis-ci.com/suswan99/hw-tdd-rspec.svg?branch=master
+https://travis-ci.org/suswan99/hw-tdd-rspec.svg?branch=master
 
 2. Take a look at the `.travis.yml` file in this project, which gives
 Travis instructions on what to do each time code is pushed to GitHub.
